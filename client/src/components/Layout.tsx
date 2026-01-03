@@ -33,7 +33,8 @@ export function Layout({ children, headerContent }: LayoutProps) {
       </main>
 
       <footer className="py-6 border-t border-slate-200 bg-white text-center text-slate-400 text-sm">
-        <p>© 2024 ACE Exam Simulator. For educational purposes only.</p>
+        <p>© 2026 ACE Exam Simulator. For educational purposes only.</p>
+        <p>Made With ❤️ by Vijay.</p>
       </footer>
     </div>
   );
